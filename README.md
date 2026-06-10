@@ -2,6 +2,9 @@
 
 A public Passports workspace for community discussions, feedback, issue tracking, and proposals related to GOOS Passports.
 
+## ISSUE TACKING IS CURRENTLY DONE WITHIN THE AMRIT CONSORTIUM GITHUB on this board: https://github.com/orgs/amrit-eu/projects/10/views/1
+
+
 ## Purpose
 
 This repository provides a public space to:
@@ -33,3 +36,4 @@ This workspace is moderated by the OceanOPS team. Contributions are welcome and 
 
 -  [GOOS Passports Website](https://www.ocean-ops.org/passports/)
 -  [Passports API Swagger](https://www.ocean-ops.org/api/swagger)
+
