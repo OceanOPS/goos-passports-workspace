@@ -1,6 +1,6 @@
 # GOOS Passports Workspace
 
-OceanOPS Passports workspace for community discussions, feedback, issue tracking, and proposals related to GOOS Passports.
+A public Passports workspace for community discussions, feedback, issue tracking, and proposals related to GOOS Passports.
 
 ## Purpose
 
@@ -32,3 +32,8 @@ This repository provides a public space to:
 ## Governance
 
 This workspace is moderated by the OceanOPS team. Contributions are welcome and encouraged from the wider community.
+
+## Resources
+
+- 🌊 [GOOS Passports Website](https://www.ocean-ops.org/passports/)
+- 📘 [Passports API Swagger](https://www.ocean-ops.org/api/swagger)
