@@ -16,12 +16,8 @@ This repository provides a public space to:
 - Issues and questions about GOOS Passports identifiers, metadata, and structure
 - Discussions on scope, terminology, and alignment with existing standards
 - Proposals and suggestions from the community
-
-## What this repository is not for
-
-- Application or API bug reports
+- Application or API bug reports related to Passports submisssion
 - Implementation-specific code issues
-- Private or operational support requests
 
 ## How to participate
 
