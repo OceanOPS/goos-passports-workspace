@@ -1,4 +1,4 @@
-# OceanOPS Passports Workspace
+# GOOS Passports Workspace
 
 OceanOPS Passports workspace for community discussions, feedback, issue tracking, and proposals related to the OceanOPS Passports standard.
 
