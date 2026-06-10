@@ -6,14 +6,14 @@ OceanOPS Passports workspace for community discussions, feedback, issue tracking
 
 This repository provides a public space to:
 
-- Report issues or ambiguities related to OceanOPS Passports
+- Report issues or ambiguities related to GOOS Passports
 - Share feedback from users and partners
 - Discuss use cases, concepts, and interpretations
 - Propose improvements or evolutions of the Passports standard
 
 ## What this repository is for
 
-- Issues and questions about Passports identifiers, metadata, and structure
+- Issues and questions about GOOS Passports identifiers, metadata, and structure
 - Discussions on scope, terminology, and alignment with existing standards
 - Proposals and suggestions from the community
 
