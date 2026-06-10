@@ -35,5 +35,5 @@ This workspace is moderated by the OceanOPS team. Contributions are welcome and 
 
 ## Resources
 
-- 🌊 [GOOS Passports Website](https://www.ocean-ops.org/passports/)
-- 📘 [Passports API Swagger](https://www.ocean-ops.org/api/swagger)
+-  [GOOS Passports Website](https://www.ocean-ops.org/passports/)
+-  [Passports API Swagger](https://www.ocean-ops.org/api/swagger)
