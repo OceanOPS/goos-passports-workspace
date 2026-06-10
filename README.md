@@ -1,6 +1,6 @@
 # GOOS Passports Workspace
 
-OceanOPS Passports workspace for community discussions, feedback, issue tracking, and proposals related to the OceanOPS Passports standard.
+OceanOPS Passports workspace for community discussions, feedback, issue tracking, and proposals related to GOOS Passports.
 
 ## Purpose
 
